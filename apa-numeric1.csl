@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" page-range-format="expanded">
   <info>
-    <title>American Psychological Association 6th edition (numeric)</title>
-    <title-short>APA (numeric)</title-short>
+    <title>American Psychological Association 6th edition (numeric1)</title>
+    <title-short>APA (numeric1)</title-short>
     <id>http://www.zotero.org/styles/apa-numeric</id>
     <summary>APA style, with numeric in-text citations</summary>
     <link href="http://www.zotero.org/styles/apa-numeric" rel="self"/>

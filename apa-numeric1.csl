@@ -1449,7 +1449,7 @@
           <text macro="author"/>
           <choose>
             <if is-uncertain-date="issued">
-              <group prefix=" [" suffix="]" delimiter=" ">
+              <group prefix=" " suffix="" delimiter=" ">
                 <text term="circa" form="short"/>
                 <text macro="issued"/>
               </group>
